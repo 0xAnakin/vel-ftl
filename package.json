@@ -1,0 +1,19 @@
+{
+  "name": "vel-ftl",
+  "version": "1.0.0",
+  "description": "Utility to coonvert velocity templates to freemarker templates",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node src/index.js"
+  },
+  "keywords": [
+    "velocity",
+    "freemarker"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "async": "^3.2.4"
+  }
+}
